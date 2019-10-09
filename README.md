@@ -15,7 +15,7 @@ This is blender:
 https://www.blender.org/
 
 Here is a way to develop in windows:
-http://www.mingw.org/
+https://www.rose-hulman.edu/class/csse/resources/MinGW/installation.htm
 http://www.mingw.org/wiki/MSYS
 https://code.visualstudio.com/
 
