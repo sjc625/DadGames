@@ -18,5 +18,6 @@ Here is a way to develop in windows:
 https://www.rose-hulman.edu/class/csse/resources/MinGW/installation.htm
 http://www.mingw.org/wiki/MSYS
 https://code.visualstudio.com/
+https://gitforwindows.org/
 
 Feel free to add other useful links, actual code will live deeper down in the project.
