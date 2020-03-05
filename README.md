@@ -21,3 +21,5 @@ https://code.visualstudio.com/
 https://gitforwindows.org/
 
 Feel free to add other useful links, actual code will live deeper down in the project.
+
+This shit dead. I wish we actually be doin this shit tho.
